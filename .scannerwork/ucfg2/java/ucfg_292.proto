@@ -1,0 +1,65 @@
+
+FbusinessLogic.BLFacadeImplementation#getAllDiscounts()Ljava/util/List;z
+nC:/Users/roman.DESKTOP-F3NH8RO/Desktop/Rides24Complete/src/main/java/businessLogic/BLFacadeImplementation.javaä ä(&"1*â
+1
+å å(‡
+„
+
+å å(
+%0dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager|z
+
+å å(
+
+%1void"dataAccess.DataAccess#open()V*9
+
+__unknown_file (
+
+%0dataAccess.DataAccess2open()‡
+„
+
+æ æ( 
+%2dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager¬©
+
+æ æ(2
+%3java.util.List"7dataAccess.DataAccess#getAllDiscounts()Ljava/util/List;*9
+
+__unknown_file (
+
+%2dataAccess.DataAccess2getAllDiscounts()_
+]
+
+æ æ(3
+disjava.util.List"__id*2
+
+__unknown_file (
+
+%3java.util.List‡
+„
+
+ç ç(
+%4dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager~|
+
+ç ç(
+
+%5void"dataAccess.DataAccess#close()V*9
+
+__unknown_file (
+
+%4dataAccess.DataAccess2close()"%
+
+è è(
+
+disjava.util.ListB(&
+$businessLogic.BLFacadeImplementationH

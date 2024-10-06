@@ -1,0 +1,5 @@
+testOperations.TestDataAccess#existRide(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;)Z
+25b7991a3966bec4ac89bcc12104834f
+==
+doesRideExists domain.Driver#doesRideExists(Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;)Z
+println java.io.PrintStream#println(Ljava/lang/String;)V

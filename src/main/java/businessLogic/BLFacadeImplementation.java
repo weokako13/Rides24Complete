@@ -6,6 +6,8 @@ import java.util.List;
 import javax.jws.WebMethod;
 import javax.jws.WebService;
 
+import com.sun.istack.logging.Logger;
+
 import configuration.ConfigXML;
 import dataAccess.DataAccess;
 import domain.Ride;
@@ -39,8 +41,10 @@ public class BLFacadeImplementation implements BLFacade {
 	}
 
 	public BLFacadeImplementation(DataAccess da) {
+		
+		Logger logger = Logger.getLogger(getClass().getName(), null);
 
-		System.out.println("Creating BLFacadeImplementation instance with DataAccess parameter");
+		logger.info("Creating BLFacadeImplementation instance with DataAccess parameter");
 		@SuppressWarnings("unused")
 		ConfigXML c = ConfigXML.getInstance();
 
@@ -87,7 +91,7 @@ public class BLFacadeImplementation implements BLFacade {
 		Ride ride = dbManager.createRide(from, to, date, nPlaces, price, driverName);
 		dbManager.close();
 		return ride;
-	};
+	}
 
 	/**
 	 * {@inheritDoc}

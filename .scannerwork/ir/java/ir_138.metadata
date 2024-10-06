@@ -1,0 +1,7 @@
+getBookingFromDriverMockBlackTest#test1()V
+0bbf0865266e7fb42a402a7d1ce6cef0
+==
+close dataAccess.DataAccess#close()V
+getUsername domain.User#getUsername()Ljava/lang/String;
+open dataAccess.DataAccess#open()V
+getBookingFromDriver dataAccess.DataAccess#getBookingFromDriver(Ljava/lang/String;)Ljava/util/List;

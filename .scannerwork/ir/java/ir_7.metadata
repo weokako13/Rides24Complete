@@ -1,0 +1,13 @@
+dataAccess.DataAccess#open()V
+d6ee1863213ece481078698e053f23b1
+java.util.HashMap#<init>()V
+java.util.HashMap#instance-init#
+==
+getDbFilename configuration.ConfigXML#getDbFilename()Ljava/lang/String;
+put java.util.Map#put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+getUser configuration.ConfigXML#getUser()Ljava/lang/String;
+getPassword configuration.ConfigXML#getPassword()Ljava/lang/String;
+println java.io.PrintStream#println(Ljava/lang/String;)V
+getDatabasePort configuration.ConfigXML#getDatabasePort()I
+isDatabaseLocal configuration.ConfigXML#isDatabaseLocal()Z
+getDatabaseNode configuration.ConfigXML#getDatabaseNode()Ljava/lang/String;

@@ -1,0 +1,96 @@
+
+SbusinessLogic.BLFacadeImplementation#getAllMovements(Ldomain/User;)Ljava/util/List;z
+nC:/Users/roman.DESKTOP-F3NH8RO/Desktop/Rides24Complete/src/main/java/businessLogic/BLFacadeImplementation.javaä ä(&"startingBlock*‚
+startingBlock
+ä& ä(1ˆ
+…
+
+ã ã(
+
+%6"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*1
+
+__unknown_file (
+
+userdomain.UserU
+S
+
+ä, ä(0
+userdomain.User"__annotation*"
+
+__unknown_file (
+
+%6*
+1*³
+1
+å å(‡
+„
+
+å å(
+%0dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager|z
+
+å å(
+
+%1void"dataAccess.DataAccess#open()V*9
+
+__unknown_file (
+
+%0dataAccess.DataAccess2open()‡
+„
+
+æ æ("
+%2dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManagerùö
+
+æ æ(8
+%3java.util.List"DdataAccess.DataAccess#getAllMovements(Ldomain/User;)Ljava/util/List;*9
+
+__unknown_file (
+
+%2dataAccess.DataAccess*1
+
+__unknown_file (
+
+userdomain.User2getAllMovements(Ldomain/User;)a
+_
+
+æ æ(9
+movesjava.util.List"__id*2
+
+__unknown_file (
+
+%3java.util.List‡
+„
+
+ç ç(
+%4dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager~|
+
+ç ç(
+
+%5void"dataAccess.DataAccess#close()V*9
+
+__unknown_file (
+
+%4dataAccess.DataAccess2close()"'
+
+è è(
+
+movesjava.util.List:!
+
+ä' ä(0
+userdomain.UserB(&
+$businessLogic.BLFacadeImplementationH

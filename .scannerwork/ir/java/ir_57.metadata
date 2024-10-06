@@ -1,0 +1,6 @@
+testOperations.TestDataAccess#removeRide(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;)Ldomain/Ride;
+804a4a524630092909de26e7702f1902
+==
+removeRide domain.Driver#removeRide(Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;)Ldomain/Ride;
+println java.io.PrintStream#println(Ljava/lang/String;)V
+getCreatedRides domain.Driver#getCreatedRides()Ljava/util/List;

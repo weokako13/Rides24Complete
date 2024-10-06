@@ -1,0 +1,127 @@
+
+QbusinessLogic.BLFacadeImplementation#bookRide(Ljava/lang/String;Ldomain/Ride;ID)Zz
+nC:/Users/roman.DESKTOP-F3NH8RO/Desktop/Rides24Complete/src/main/java/businessLogic/BLFacadeImplementation.java€ €("startingBlock*ˆ
+startingBlock
+€ €(Lë
+é
+
+⁄ ⁄(
+
+%6"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*:
+
+__unknown_file (
+
+usernamejava.lang.String^
+\
+
+€  €((
+usernamejava.lang.String"__annotation*"
+
+__unknown_file (
+
+%6à
+Ö
+
+⁄ ⁄(
+
+%7"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*1
+
+__unknown_file (
+
+ridedomain.RideU
+S
+
+€/ €(3
+ridedomain.Ride"__annotation*"
+
+__unknown_file (
+
+%7*
+1*≈
+1
+‹ ‹(á
+Ñ
+
+› ›(
+%0dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager|z
+
+› ›(
+
+%1void"dataAccess.DataAccess#open()V*9
+
+__unknown_file (
+
+%0dataAccess.DataAccess2open()á
+Ñ
+
+ﬁ	 ﬁ(
+%2dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManagerÅ˛
+
+ﬁ	 ﬁ(8
+%3boolean"BdataAccess.DataAccess#bookRide(Ljava/lang/String;Ldomain/Ride;ID)Z*9
+
+__unknown_file (
+
+%2dataAccess.DataAccess*:
+
+__unknown_file (
+
+usernamejava.lang.String*1
+
+__unknown_file (
+
+ridedomain.Ride*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2+bookRide(Ljava/lang/String;Ldomain/Ride;ID)á
+Ñ
+
+ﬂ ﬂ(
+%4dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager~|
+
+ﬂ ﬂ(
+
+%5void"dataAccess.DataAccess#close()V*9
+
+__unknown_file (
+
+%4dataAccess.DataAccess2close()"
+
+‡ ‡(
+"":*
+
+€ €()
+usernamejava.lang.String:!
+
+€* €(4
+ridedomain.Ride: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B(&
+$businessLogic.BLFacadeImplementationHX

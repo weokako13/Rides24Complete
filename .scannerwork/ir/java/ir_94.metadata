@@ -1,0 +1,6 @@
+domain.Driver#bilatumatrikula(Ljava/lang/String;)Ldomain/Car;
+98d831e82b5a00c18964323c0d2b3f0f
+java.lang.String#equals(Ljava/lang/Object;)Z
+==
+getMatrikula domain.Car#getMatrikula()Ljava/lang/String;
+get java.util.List#get(I)Ljava/lang/Object;

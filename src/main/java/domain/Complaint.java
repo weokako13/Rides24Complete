@@ -27,7 +27,7 @@ public class Complaint implements Serializable {
 	private Booking booking;
 	private String deskripzioa;
 	public Boolean aurkeztua;
-	public String egoera;
+	private String egoera;
 
 	public Complaint(String nor, String nori, Date noiz, Booking book, String deskripzioa, boolean aurkeztua) {
 		super();

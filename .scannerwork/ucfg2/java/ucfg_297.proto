@@ -1,0 +1,65 @@
+
+BbusinessLogic.BLFacadeImplementation#getUserList()Ljava/util/List;z
+nC:/Users/roman.DESKTOP-F3NH8RO/Desktop/Rides24Complete/src/main/java/businessLogic/BLFacadeImplementation.javaâ â("1*ÿ
+1
+ä ä(á
+Ñ
+
+ä ä(
+%0dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager|z
+
+ä ä(
+
+%1void"dataAccess.DataAccess#open()V*9
+
+__unknown_file (
+
+%0dataAccess.DataAccess2open()á
+Ñ
+
+ã ã(
+%2dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager§°
+
+ã ã()
+%3java.util.List"3dataAccess.DataAccess#getUserList()Ljava/util/List;*9
+
+__unknown_file (
+
+%2dataAccess.DataAccess2getUserList()^
+\
+
+ã ã(*
+lujava.util.List"__id*2
+
+__unknown_file (
+
+%3java.util.Listá
+Ñ
+
+å å(
+%4dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager~|
+
+å å(
+
+%5void"dataAccess.DataAccess#close()V*9
+
+__unknown_file (
+
+%4dataAccess.DataAccess2close()"$
+
+ç ç(
+
+lujava.util.ListB(&
+$businessLogic.BLFacadeImplementationH

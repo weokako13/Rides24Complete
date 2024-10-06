@@ -1,0 +1,62 @@
+
+4businessLogic.BLFacadeImplementation#deleteAlert(I)Zz
+nC:/Users/roman.DESKTOP-F3NH8RO/Desktop/Rides24Complete/src/main/java/businessLogic/BLFacadeImplementation.javaÀ À("1*ø
+1
+Á Á(‡
+„
+
+Á Á(
+%0dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager|z
+
+Á Á(
+
+%1void"dataAccess.DataAccess#open()V*9
+
+__unknown_file (
+
+%0dataAccess.DataAccess2open()‡
+„
+
+Â Â(
+%2dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager´±
+
+Â Â(2
+%3boolean"%dataAccess.DataAccess#deleteAlert(I)Z*9
+
+__unknown_file (
+
+%2dataAccess.DataAccess*"
+
+__unknown_file (
+""2deleteAlert(I)‡
+„
+
+Ã Ã(
+%4dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager~|
+
+Ã Ã(
+
+%5void"dataAccess.DataAccess#close()V*9
+
+__unknown_file (
+
+%4dataAccess.DataAccess2close()"
+
+Ä Ä(
+"": 
+
+__unknown_file (
+""B(&
+$businessLogic.BLFacadeImplementationHX

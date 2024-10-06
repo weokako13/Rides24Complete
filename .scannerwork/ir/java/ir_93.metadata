@@ -1,0 +1,10 @@
+domain.Driver#removeRide(Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;)Ldomain/Ride;
+6141268b401f6b0749c13f3112e243f3
+==
+println java.io.PrintStream#println(Ljava/lang/String;)V
+equals java.util.Date#equals(Ljava/lang/Object;)Z
+get java.util.List#get(I)Ljava/lang/Object;
+remove java.util.List#remove(I)Ljava/lang/Object;
+getDate domain.Ride#getDate()Ljava/util/Date;
+getFrom domain.Ride#getFrom()Ljava/lang/String;
+getTo domain.Ride#getTo()Ljava/lang/String;

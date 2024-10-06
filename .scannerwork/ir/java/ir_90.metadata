@@ -1,0 +1,6 @@
+domain.Driver#addRide(Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;IF)Ldomain/Ride;
+2573d6b0cc8b7d6f53a3b005f6d153ce
+domain.Ride#instance-init#
+domain.Ride#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;IDLdomain/Driver;)V
+==
+add java.util.List#add(Ljava/lang/Object;)Z

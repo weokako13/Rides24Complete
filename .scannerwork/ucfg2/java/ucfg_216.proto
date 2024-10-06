@@ -1,0 +1,83 @@
+
+ÄtestOperations.TestBusinessLogic#removeRide(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;)Ldomain/Ride;t
+jC:/Users/roman.DESKTOP-F3NH8RO/Desktop/Rides24Complete/src/test/java/testOperations/TestBusinessLogic.java< <("1*Ë
+
+1= =(ç
+ä
+= =(#
+%0testOperations.TestDataAccess"__id*S
+
+__unknown_file (7*5"
+ testOperations.TestBusinessLogic"
+dbManagerTestãà
+= =(
+
+%1void"%testOperations.TestDataAccess#open()V*A
+
+__unknown_file (%
+#
+%0testOperations.TestDataAccess2open()ç
+ä
+>
+ >(#
+%2testOperations.TestDataAccess"__id*S
+
+__unknown_file (7*5"
+ testOperations.TestBusinessLogic"
+dbManagerTestìê
+>
+ >(=
+%3domain.Ride"}testOperations.TestDataAccess#removeRide(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;)Ldomain/Ride;*A
+
+__unknown_file (%
+#
+%2testOperations.TestDataAccess*7
+
+__unknown_file (
+
+emailjava.lang.String*6
+
+__unknown_file (
+
+fromjava.lang.String*4
+
+__unknown_file (
+
+tojava.lang.String*4
+
+__unknown_file (
+
+datejava.util.Date2RremoveRide(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;)U
+S
+> >(>
+rdomain.Ride"__id*/
+
+__unknown_file (
+
+%3domain.Rideç
+ä
+? ?(#
+%4testOperations.TestDataAccess"__id*S
+
+__unknown_file (7*5"
+ testOperations.TestBusinessLogic"
+dbManagerTestçä
+? ?(
+
+%5void"&testOperations.TestDataAccess#close()V*A
+
+__unknown_file (%
+#
+%4testOperations.TestDataAccess2close()"
+@ @(
+
+rdomain.Ride:%
+< <(&
+emailjava.lang.String:$
+<& <(2
+fromjava.lang.String:"
+<3 <(=
+tojava.lang.String:"
+<> <(G
+datejava.util.DateB$"
+ testOperations.TestBusinessLogicH

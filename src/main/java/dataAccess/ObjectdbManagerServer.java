@@ -15,18 +15,19 @@ import javax.swing.JTextArea;
 
 
 import java.awt.event.ActionListener;
+import java.io.Serializable;
 import java.awt.event.ActionEvent;
 
 /**
  * It runs the database server as a separate process.
  */
-public class ObjectdbManagerServer extends JDialog {
+public class ObjectdbManagerServer extends JDialog implements Serializable{
 
 
 	private static final long serialVersionUID = 1L;
 	private final JPanel contentPanel = new JPanel();
 	JTextArea textArea;
-	ConfigXML c;
+	transient ConfigXML c;
 	
 	//For windows
     private String objectDbpath="src\\main\\resources\\objectdb.jar";

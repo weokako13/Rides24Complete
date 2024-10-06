@@ -1,0 +1,7 @@
+configuration.ConfigXML#getTagValue(Ljava/lang/String;Lorg/w3c/dom/Element;)Ljava/lang/String;
+e71a6d91f278acdca7ef614b56b6fca8
+==
+getNodeValue org.w3c.dom.Node#getNodeValue()Ljava/lang/String;
+item org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;
+getChildNodes org.w3c.dom.Node#getChildNodes()Lorg/w3c/dom/NodeList;
+getElementsByTagName org.w3c.dom.Element#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;

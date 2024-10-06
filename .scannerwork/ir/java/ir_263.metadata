@@ -1,0 +1,11 @@
+getBookingFromDriverMockWhiteTest#test1()V
+09f2a8c714ecc3f3ffdf0585451854e3
+==
+getTraveler domain.Booking#getTraveler()Ldomain/Traveler;
+close dataAccess.DataAccess#close()V
+getRide domain.Booking#getRide()Ldomain/Ride;
+getUsername domain.User#getUsername()Ljava/lang/String;
+get java.util.List#get(I)Ljava/lang/Object;
+open dataAccess.DataAccess#open()V
+getBookingFromDriver dataAccess.DataAccess#getBookingFromDriver(Ljava/lang/String;)Ljava/util/List;
+size java.util.List#size()I

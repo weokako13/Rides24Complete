@@ -1,0 +1,7 @@
+dataAccess.DataAccess#getRides(Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;)Ljava/util/List;
+42f82e9877b0d78756ce83cc14e7cae2
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#
+==
+println java.io.PrintStream#println(Ljava/lang/String;)V
+add java.util.List#add(Ljava/lang/Object;)Z

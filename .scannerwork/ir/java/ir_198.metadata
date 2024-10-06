@@ -1,0 +1,5 @@
+businessLogic.BLFacadeImplementation#<init>(LdataAccess/DataAccess;)V
+05c279dc9893e26e11d028930fb10f25
+java.lang.Object#getClass()Ljava/lang/Class;
+java.lang.Class#getName()Ljava/lang/String;
+configuration.ConfigXML#getInstance()Lconfiguration/ConfigXML;

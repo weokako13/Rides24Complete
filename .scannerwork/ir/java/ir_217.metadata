@@ -1,0 +1,6 @@
+businessLogic.BLFacadeImplementation#addMovement(Ldomain/User;Ljava/lang/String;D)V
+bb02f8d7c6cfe182b863d6c73e8a9254
+==
+close dataAccess.DataAccess#close()V
+open dataAccess.DataAccess#open()V
+addMovement dataAccess.DataAccess#addMovement(Ldomain/User;Ljava/lang/String;D)V

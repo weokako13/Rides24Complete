@@ -63,8 +63,8 @@ public class TestDataAccess {
 			db.remove(d);
 			db.getTransaction().commit();
 			return true;
-		} else 
-		return false;
+		} else {
+		return false;}
     }
 	public Driver createDriver(String name, String pass) {
 		System.out.println(">> TestDataAccess: addDriver");
@@ -116,8 +116,8 @@ public class TestDataAccess {
 			Driver d = db.find(Driver.class, name);
 			if (d!=null) {
 				return d.doesRideExists(from, to, date);
-			} else 
-			return false;
+			} else {
+			return false;}
 		}
 		public Ride removeRide(String name, String from, String to, Date date ) {
 			System.out.println(">> TestDataAccess: removeRide");
@@ -129,10 +129,15 @@ public class TestDataAccess {
 				System.out.println("created rides" +d.getCreatedRides());
 				return r;
 
-			} else 
-			return null;
-
+			} else {
+			return null;}
 		}
+		
+
+		
+		public void addBookingToDriver(String username, String from, String to, int i) {
+		
+  }
 
 
 		

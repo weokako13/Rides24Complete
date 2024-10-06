@@ -1,0 +1,6 @@
+businessLogic.BLFacadeImplementation#gauzatuEragiketa(Ljava/lang/String;DZ)Z
+f2900b7201325ac2b4117c2cf23aec28
+==
+close dataAccess.DataAccess#close()V
+open dataAccess.DataAccess#open()V
+gauzatuEragiketa dataAccess.DataAccess#gauzatuEragiketa(Ljava/lang/String;DZ)Z

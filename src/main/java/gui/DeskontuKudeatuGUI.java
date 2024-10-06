@@ -41,7 +41,7 @@ public class DeskontuKudeatuGUI extends JFrame {
 
 		// Lista
 		taula = new JTable();
-		List<Discount> Desklist = appFacadeInterface.getAllDiscounts();
+		List<Discount> dlist = appFacadeInterface.getAllDiscounts();
 		scrollPane = new JScrollPane(taula);
 		getContentPane().add(scrollPane, BorderLayout.NORTH);
 
@@ -55,7 +55,7 @@ public class DeskontuKudeatuGUI extends JFrame {
 				ResourceBundle.getBundle("Etiquetas").getString("Active") };
 		DefaultTableModel model = new DefaultTableModel(columnNames, 0);
 
-		for (Discount dis : Desklist) {
+		for (Discount dis : dlist) {
 			Object[] rowData = { dis.getKodea(), dis.getPortzentaia(), dis.isActive() };
 			model.addRow(rowData);
 		}
@@ -70,7 +70,7 @@ public class DeskontuKudeatuGUI extends JFrame {
 			public void actionPerformed(ActionEvent e) {
 				int pos = taula.getSelectedRow();
 				if (pos != -1) {
-					Discount dis = Desklist.get(pos);
+					Discount dis = dlist.get(pos);
 					appFacadeInterface.deleteDiscount(dis);
 					model.removeRow(pos);
 				} else {
@@ -86,7 +86,7 @@ public class DeskontuKudeatuGUI extends JFrame {
 			public void actionPerformed(ActionEvent e) {
 				int pos = taula.getSelectedRow();
 				if (pos != -1) {
-					Discount dis = Desklist.get(pos);
+					Discount dis = dlist.get(pos);
 					boolean egber;
 					if (dis.isActive()) {
 						dis.setActive(false);

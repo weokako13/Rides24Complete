@@ -1,0 +1,19 @@
+getBookingFromDriverMockWhiteTest#init()V
+d2762a0f8c00598168735d98aeafab1d
+domain.Traveler#<init>(Ljava/lang/String;Ljava/lang/String;)V
+dataAccess.DataAccess#instance-init#
+domain.Booking#instance-init#
+domain.Driver#<init>(Ljava/lang/String;Ljava/lang/String;)V
+domain.Traveler#instance-init#
+domain.Booking#<init>(Ldomain/Ride;Ldomain/Traveler;I)V
+domain.Driver#instance-init#
+java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;
+java.time.Instant#now()Ljava/time/Instant;
+java.util.Date#from(Ljava/time/Instant;)Ljava/util/Date;
+dataAccess.DataAccess#<init>(LEntityManager;)V
+==
+setMoney domain.User#setMoney(D)V
+setBalorazioa domain.User#setBalorazioa(D)V
+setBalkop domain.User#setBalkop(I)V
+addRide domain.Driver#addRide(Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;IF)Ldomain/Ride;
+setBookings domain.Ride#setBookings(Ljava/util/List;)V

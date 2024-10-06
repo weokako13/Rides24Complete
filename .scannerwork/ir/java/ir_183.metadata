@@ -1,0 +1,4 @@
+gui.BezeroGUI#jButtonClose_actionPerformed(Ljava/awt/event/ActionEvent;)V
+503e5103f96fd0fd38b39c17a500e726
+==
+setVisible java.awt.Window#setVisible(Z)V

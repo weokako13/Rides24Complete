@@ -1,16 +1,38 @@
 
--domain.Question#getResult()Ljava/lang/String;I
-?/Users/iturrioz/git/Bets2021/src/main/java/domain/Question.javat t("1*≈
-1I
-?/Users/iturrioz/git/Bets2021/src/main/java/domain/Question.javau	 u(ç
-ä
-I
-?/Users/iturrioz/git/Bets2021/src/main/java/domain/Question.javau	 u(
-%0java.lang.String"__id**
-domain.Question"
-result"e
-I
-?/Users/iturrioz/git/Bets2021/src/main/java/domain/Question.javau u(
-
-%0java.lang.StringB
-domain.Question
+HdataAccess.DataAccess#getBookedRides(Ljava/lang/String;)Ljava/util/List;k
+_C:/Users/roman.DESKTOP-F3NH8RO/Desktop/Rides24Complete/src/main/java/dataAccess/DataAccess.javaµ µ($"1*¡
+1
+∂ ∂(Çˇ
+
+∑ ∑('
+%0domain.Traveler"FdataAccess.DataAccess#getTraveler(Ljava/lang/String;)Ldomain/Traveler;*5
+
+__unknown_file (
+dataAccess.DataAccess*:
+
+__unknown_file (
+
+usernamejava.lang.String2getTraveler(Ljava/lang/String;)b
+`
+
+∑ ∑((
+travdomain.Traveler"__id*3
+
+__unknown_file (
+
+%0domain.Traveler†ù
+
+π	 π(
+%1java.util.List"0domain.Traveler#getBookedRides()Ljava/util/List;*5
+
+__unknown_file (
+
+travdomain.Traveler2getBookedRides()"$
+
+π π(
+
+%1java.util.List:*
+
+µ% µ(4
+usernamejava.lang.StringB
+dataAccess.DataAccessH
