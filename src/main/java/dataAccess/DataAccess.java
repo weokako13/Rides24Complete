@@ -635,6 +635,8 @@ public class DataAccess {
 	 *         or null if the driver does not exist or an error occurs during the transaction.
 	 * @throws IllegalArgumentException if the username is null.
 	 */
+	
+	/*he quitado los prints de debug */
 	public List<Booking> getBookingFromDriver(String username) {
 	    if (username == null) {
 	        throw new IllegalArgumentException("Username cannot be null");
@@ -650,9 +652,6 @@ public class DataAccess {
 	        List<Booking> bookings = new ArrayList<>();
 
 	        for (Ride ride : rides) {
-	            System.out.println(ride);
-	            System.out.println(rides);
-	            System.out.println(bookings);
 	            if (ride.isActive()) {
 	                bookings.addAll(ride.getBookings());
 	            }
